@@ -1,7 +1,7 @@
 # college-conference-event-form
 College conference event form using html and css .
 
-This is a [College conference event form]() using html and css. 
+This is a [College conference event form](https://ruchibadkur.github.io/college-conference-event-form/) using html and css. 
 
 ## Table of contents
 
@@ -24,7 +24,7 @@ This is a [College conference event form]() using html and css.
 
 ### Links
 
-- Live Site URL: []()
+- Live Site URL: [https://ruchibadkur.github.io/college-conference-event-form/](https://ruchibadkur.github.io/college-conference-event-form/)
 
 ## My process
 
